@@ -1,69 +1,79 @@
 # `Hi 👋, I'm Mohammed Niyaf`
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat" />
+  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat" width="420"/>
 </p>
 
-## `Full-Stack Developer ✨`
+## `Full-Stack Developer`
 
-I am a passionate full-stack developer focused on building **real-time, scalable web applications**.
+I’m a software engineer who enjoys building systems that are **clear, reliable, and intentional**.
 
-- 🔍 Passionate about performance-driven and scalable systems  
-- 🌌 Building modern **React / Next.js** frontends with **Node.js** backends  
-- ⚡ Strong interest in **WebSockets, WebRTC, system design, and cloud infrastructure**  
-- 📫 Reach me at: **mohammedniyaf@gmail.com**
+I work across the stack — from modern frontends to backend systems — with a strong interest in how software behaves **under real-world conditions**, not just in demos.
+
+📫 **Email:** mohammedniyaf@gmail.com  
+🌐 **Portfolio:** https://www.niyaf.xyz  
 
 ---
 
-## `🛠️ Technologies & Tools`
+## `🛠️ Skills & Tools`
 
 <table align="center">
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=typescript" width="60"/><br/>TypeScript</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br/>JavaScript</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="60"/><br/>React</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br/>Next.js</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=redux" width="60"/><br/>Redux</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br/>Tailwind CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/>TypeScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>Redux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind</td>
   </tr>
 
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br/>Node.js</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="60"/><br/>Express.js</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="60"/><br/>PostgreSQL</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=redis" width="60"/><br/>Redis</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=prisma" width="60"/><br/>Prisma</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=websocket" width="60"/><br/>WebSockets</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=webrtc" width="60"/><br/>WebRTC</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="40"/><br/>Prisma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=websocket" width="40"/><br/>WebSocket</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=webrtc" width="40"/><br/>WebRTC</td>
   </tr>
 
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br/>Docker</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br/>AWS</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nginx" width="60"/><br/>Nginx</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br/>Linux</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="60"/><br/>Git</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="60"/><br/>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx" width="40"/><br/>Nginx</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/>Linux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
   </tr>
 </table>
 
 ---
 
-## `🚀 What I Enjoy Building`
+## `🧠 How I Think About Software`
 
-- 🔴 Real-time applications (Chat, Video, Live Dashboards)
-- 🌐 Scalable REST & WebSocket APIs
-- 🧠 Clean backend architecture and system design
-- ☁️ Dockerized, cloud-ready applications
+I don’t see software engineering as just writing code or chasing frameworks.
+
+For me, it’s about **thinking clearly**, **understanding systems**, and **reducing complexity** — whether that complexity lives in code, infrastructure, or human decisions.
+
+I like asking *why* before *how*.  
+Why does this system exist?  
+Why does it break under load?  
+Why does this solution feel simple or fragile?
+
+Good software, to me, is quiet.  
+It doesn’t fight the developer.  
+It doesn’t surprise the user.  
+It scales not because it’s “clever”, but because it’s **well-understood**.
+
+I’m more interested in **long-term clarity** than short-term hacks,  
+and I value engineers who can explain ideas simply more than those who hide behind jargon.
+
+I’m still learning — but I care deeply about learning **the right things**, not just more things.
 
 ---
 
-## `🔗 Connect With Me`
+## `🔗 Connect`
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mohammad-niyaf-s-m-692801259/
 - 🌐 **Portfolio:** https://www.niyaf.xyz
 - 📧 **Email:** mohammedniyaf@gmail.com
-
----
-
-⭐ *Always learning, building, and improving.*
