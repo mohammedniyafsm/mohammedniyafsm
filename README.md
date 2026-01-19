@@ -25,18 +25,15 @@ I work across the stack — from modern frontends to backend systems — with a 
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nextjs" width="36"/><br/>Next.js</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=redux" width="36"/><br/>Redux</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=tailwind" width="36"/><br/>Tailwind</td>
+    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nodejs" width="36"/><br/>Node.js</td>
+    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=express" width="36"/><br/>Express</td>
   </tr>
 
   <tr>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nodejs" width="36"/><br/>Node.js</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=express" width="36"/><br/>Express</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=mongodb" width="36"/><br/>MongoDB</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=postgres" width="36"/><br/>PostgreSQL</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=redis" width="36"/><br/>Redis</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=prisma" width="36"/><br/>Prisma</td>
-  </tr>
-
-  <tr>
     <td align="center" width="85">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="36"/><br/>
       WebSocket
@@ -45,6 +42,9 @@ I work across the stack — from modern frontends to backend systems — with a 
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/WebRTC_Logo.svg" width="36"/><br/>
       WebRTC
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=docker" width="36"/><br/>Docker</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=aws" width="36"/><br/>AWS</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nginx" width="36"/><br/>Nginx</td>
