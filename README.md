@@ -42,16 +42,13 @@ I work across the stack — from modern frontends to backend systems — with a 
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/WebRTC_Logo.svg" width="36"/><br/>
       WebRTC
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=docker" width="36"/><br/>Docker</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=aws" width="36"/><br/>AWS</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nginx" width="36"/><br/>Nginx</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=linux" width="36"/><br/>Linux</td>
   </tr>
 
   <tr>
+    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nginx" width="36"/><br/>Nginx</td>
+    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=linux" width="36"/><br/>Linux</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=git" width="36"/><br/>Git</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=github" width="36"/><br/>GitHub</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=bash" width="36"/><br/>Shell</td>
