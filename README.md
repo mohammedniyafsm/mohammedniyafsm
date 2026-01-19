@@ -22,4 +22,4 @@ mohammedniyaf@gmail.com
 
 
 # 📫 Connect with Me
-<p> <a href="https://www.linkedin.com/in/mohammad-niyaf-s-m-692801259" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/> </a> <a href="mailto:mohammedniyaf@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/> </a> </p>
+<p> <a href="[https://www.linkedin.com/in/mohammad-niyaf-s-m-692801259](https://www.linkedin.com/in/mohammad-niyaf-s-m-692801259/)" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/> </a> <a href="mailto:mohammedniyaf@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/> </a> </p>
