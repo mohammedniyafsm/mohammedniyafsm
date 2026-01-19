@@ -19,46 +19,55 @@ I work across the stack — from modern frontends to backend systems — with a 
 
 <table align="center">
   <tr>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=typescript" width="36"/><br/>TypeScript</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=javascript" width="36"/><br/>JavaScript</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=react" width="36"/><br/>React</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nextjs" width="36"/><br/>Next.js</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=redux" width="36"/><br/>Redux</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=tailwind" width="36"/><br/>Tailwind</td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=typescript" width="42"/><br/><sub>TypeScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=javascript" width="42"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=react" width="42"/><br/><sub>React</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nextjs" width="42"/><br/><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=redux" width="42"/><br/><sub>Redux</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=tailwind" width="42"/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=express" width="42"/><br/><sub>Express</sub></td>
   </tr>
 
   <tr>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nodejs" width="36"/><br/>Node.js</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=express" width="36"/><br/>Express</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=mongodb" width="36"/><br/>MongoDB</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=postgres" width="36"/><br/>PostgreSQL</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=redis" width="36"/><br/>Redis</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=prisma" width="36"/><br/>Prisma</td>
-  </tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=mongodb" width="42"/><br/><sub>MongoDB</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres" width="42"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=redis" width="42"/><br/><sub>Redis</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=prisma" width="42"/><br/><sub>Prisma</sub></td>
 
-  <tr>
-    <td align="center" width="85">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="36"/><br/>
-      WebSocket
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="42"/><br/>
+      <sub>WebSocket</sub>
     </td>
-    <td align="center" width="85">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/WebRTC_Logo.svg" width="36"/><br/>
-      WebRTC
+
+    <td align="center" width="80">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/WebRTC_Logo.svg" width="42"/><br/>
+      <sub>WebRTC</sub>
     </td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=docker" width="36"/><br/>Docker</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=aws" width="36"/><br/>AWS</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=nginx" width="36"/><br/>Nginx</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=linux" width="36"/><br/>Linux</td>
+
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker" width="42"/><br/><sub>Docker</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws" width="42"/><br/><sub>AWS</sub></td>
   </tr>
 
   <tr>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=git" width="36"/><br/>Git</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=github" width="36"/><br/>GitHub</td>
-    <td align="center" width="85"><img src="https://skillicons.dev/icons?i=bash" width="36"/><br/>Shell</td>
-    <td align="center" width="85"><img src="https://avatars.githubusercontent.com/u/56705483?s=200&v=4" width="36"/><br/>Hoppscotch</td>
-    <td align="center" width="85"><strong>Monorepo</strong><br/><sub>Architecture</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=nginx" width="42"/><br/><sub>Nginx</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=linux" width="42"/><br/><sub>Linux</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=bash" width="42"/><br/><sub>Shell</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=git" width="42"/><br/><sub>Git</sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?i=github" width="42"/><br/><sub>GitHub</sub></td>
+
+    <td align="center" width="80">
+      <img src="https://avatars.githubusercontent.com/u/56705483?s=200&v=4" width="42"/><br/>
+      <sub>Hoppscotch</sub>
+    </td>
+
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="42"/><br/>
+      <sub>Monorepo</sub>
+    </td>
   </tr>
 </table>
+
 
 ---
 
