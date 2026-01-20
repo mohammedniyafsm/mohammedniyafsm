@@ -10,7 +10,7 @@ I’m a software engineer who enjoys building systems that are **clear, reliable
 
 I work across the stack — from modern frontends to backend systems — with a strong interest in how software behaves **under real-world conditions**, not just in demos.
 
-📫 **Email:** mohammedniyaf@gmail.com  
+📫 **Email:** mohammedniyafsm@gmail.com  
 🌐 **Portfolio:** https://www.niyaf.xyz  
 
 ---
@@ -86,6 +86,6 @@ I’m still learning — but I care deeply about learning **the right things**, 
 
 ## `🔗 Connect`
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mohammad-niyaf-s-m-692801259/
-- 🌐 **Portfolio:** https://www.niyaf.xyz
-- 📧 **Email:** mohammedniyaf@gmail.com
+-  **LinkedIn:** https://www.linkedin.com/in/mohammad-niyaf-s-m-692801259/
+-  **Portfolio:** https://www.niyaf.xyz
+-  **Email:** mohammedniyafsm@gmail.com
