@@ -53,6 +53,7 @@ I work across the stack — from modern frontends to backend systems — with a 
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=github" width="36"/><br/>GitHub</td>
     <td align="center" width="85"><img src="https://skillicons.dev/icons?i=bash" width="36"/><br/>Shell</td>
     <td align="center" width="85"><img src="https://avatars.githubusercontent.com/u/56705483?s=200&v=4" width="36"/><br/>Hoppscotch</td>
+    <td align="center" width="85"><img src="https://raw.githubusercontent.com/vercel/turbo/main/docs/public/favicon.ico" width="36"/><br/>  <strong>Turborepo</strong><br/> <sub></sub> </td>
     <td align="center" width="85"><img src="https://thenewstack.io/turborepo-speedy-builds-for-javascript-monorepos/" width="36"/><strong>Monorepo</strong><br/><sub>Architecture</sub></td>
   </tr>
 </table>
