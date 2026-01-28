@@ -1,7 +1,7 @@
 # `Hi 👋, I'm Mohammed Niyaf`
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/xxxJXxxulowAAAAC/cat-hack.gif" alt="Typing Cat" width="420"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hmcHF6bDZ5enRhemx2MHJlNXlhOW81cmgxZnc3NGNuNTA3aHJuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gcZxPiUFzoHgA/giphy.gif"/>
 </p>
 
 ## `Full-Stack Developer`
