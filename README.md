@@ -1,4 +1,4 @@
-[![header](https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif)](https://niyaf.xyz)]
+[![header](https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif)](https://niyaf.xyz)
 
 :3
 
