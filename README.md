@@ -1,7 +1,7 @@
 # `Hi 👋, I'm Mohammed Niyaf`
 
 <p align="center">
-  <img src="https://tenor.com/view/work-computer-gif-9810614"/>
+  <img src="https://tenor.com/view/work-computer-gif-9810614](https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif"/>
 </p>
 
 ## `Full-Stack Developer`
