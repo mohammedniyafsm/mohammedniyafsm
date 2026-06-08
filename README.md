@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://niyaf.xyz">
-    <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif" alt="header" width="100%" height="30%">
+    <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif" alt="header" width="100%" height="200">
   </a>
 </p>
 
