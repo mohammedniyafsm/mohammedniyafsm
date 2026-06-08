@@ -9,7 +9,7 @@
 </p>
 
 <p align="">
-  backend // cybersecurity // linux
+  FullStack // Blockchain // Deveops // cybersecurity // linux
 </p>
 
 <p align="">
