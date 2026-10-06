@@ -9,7 +9,7 @@
 </p>
 
 <p align="">
-  FullStack // Blockchain // Deveops // linux
+  FullStack Engineer // Blockchain // Deveops // linux
 </p>
 
 <p align="">
